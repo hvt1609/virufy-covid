@@ -12,16 +12,6 @@ Questions?
 Join our [Slack support workspace](https://join.slack.com/t/virufycovid/shared_invite/zt-p62lib8g-Uz8YoTujfp5sxC7frpeiPw)  
 Feel free to reach out to tara@virufy.org
 
-## Table of contents
-
-* [cough](/cough)
-* [img](/img)
-* [text](/text)
-* [.gitignore](/.gitignore)
-* [LICENSE](/LICENSE)
-* [NOTICE](/NOTICE)
-* [virufy_cdf_quickstart.ipynb](/virufy_cdf_quickstart.ipynb)
-
 ## Virufy common data format
 
 Virufy has defined a [standardized data format](https://docs.google.com/document/d/1Joj2bslHOPmQvs2SvOw4EnKYHAjC2F_kdpscgqMMA-I/edit) for COVID coughs. This starter repository currently contains open-source cough files, sourced from [Coughvid.](https://coughvid.epfl.ch/) This data has been standardized using Virufy's Common Data Format. More data will be added to this data source as it becomes available.
