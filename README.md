@@ -10,7 +10,7 @@ The [virufy_cdf_quickstart.ipynb](/virufy_cdf_quickstart.ipynb) notebook contain
 
 Questions?  
 Join our [Slack support workspace](https://join.slack.com/t/virufycovid/shared_invite/zt-p62lib8g-Uz8YoTujfp5sxC7frpeiPw)  
-Feel free to reach out to tara@virufy.com
+Feel free to reach out to tara@virufy.org
 
 ## Table of contents
 
