@@ -2,7 +2,7 @@
 
 ![Virufy logo](https://github.com/virufy/virufy-covid/blob/main/img/virufy-logo.png)
 
-Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone. To learn more or get involved, visit [our website.](https://virufy.org/en/)
+Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone. To learn more or get involved, visit [our website](https://virufy.org/en/).
 
 This repository contains everything needed to get started on writing a COVID-19 detection model. The goal of the model is to take the cough audio files, as well as additional metadata about a patient if desired, to predict whether or not they are infected with COVID-19. 
 
@@ -51,7 +51,3 @@ Note: The audio files containing the cough submissions are from a variety of fil
 * `.mp3`
 * `.m4a`
 * `.wav`
-
-## License
-
-The Coughvid data is available for use under a [Creative Commons License](/LICENSE).
