@@ -47,6 +47,9 @@ Virufy has defined a [standardized data format](https://docs.google.com/document
 Note: The audio files containing the cough submissions are from a variety of file extensions including:
 * `.webm`
 * `.ogg`
+* `.mp3`
+* `.m4a`
+* `.wav`
 
 ## License
 
