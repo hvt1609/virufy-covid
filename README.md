@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github.com/virufy/virufy-covid/blob/main/img/virufy-logo.png" alt="virufy logo" width="400"/></p>
 
-Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone. To learn more or get involved, visit [our website](https://virufy.org/en/).
+Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone. To learn more or get involved, visit [our website](https://virufy.org/en/). For more information, check out the [resources available here.](https://drive.google.com/drive/u/4/folders/1kONSI53BvAAd7TvgNGzNAP8dT-Oq3iW1)
 
 This repository contains everything needed to get started on writing a COVID-19 detection model. The goal of the model is to take the cough audio files, as well as additional metadata about a patient if desired, to predict whether or not they are infected with COVID-19. 
 
@@ -14,12 +14,12 @@ Feel free to reach out to tara@virufy.org
 
 ## Virufy common data format
 
-Virufy has defined a [standardized data format](https://docs.google.com/document/d/1Joj2bslHOPmQvs2SvOw4EnKYHAjC2F_kdpscgqMMA-I/edit) for COVID coughs. This starter repository currently contains open-source cough files, sourced from [Coughvid.](https://coughvid.epfl.ch/) This data has been standardized using Virufy's Common Data Format. More data will be added to this data source as it becomes available.
+Virufy has defined a [standardized data format](https://docs.google.com/document/d/1Joj2bslHOPmQvs2SvOw4EnKYHAjC2F_kdpscgqMMA-I/edit) for COVID coughs. This starter repository currently contains open-source cough files, sourced from [Coughvid](https://coughvid.epfl.ch/), available [here](https://github.com/virufy/virufy-cdf-coughvid), as well as from [clinical-india-1](https://github.com/virufy/virufy-cdf-clinical-india-1). This data has been standardized using Virufy's Common Data Format. More data will be added to this data source as it becomes available.
 
 | Column | Description|
 |--------|------------|
 | row | Row number of the data. |
-| source | Source of the cough data. All of the coughs contained in this starter notebook were accessed from Coughvid, more sources will be added soon. |
+| source | Source of the cough data. |
 | patient_id | Unique identifier for the patient. |
 | cough_detected | The probability that the audio file contains an actual cough submission. |
 | cough_path | The file path to the audio file containing the patient's cough submission. All of the cough audio files are in the [cough folder.](/cough) |
