@@ -14,8 +14,15 @@ Feel free to reach out to ai-community@virufy.org
 
 ## Virufy common data format
 
-Virufy has defined a [standardized data format](https://docs.google.com/document/d/1Joj2bslHOPmQvs2SvOw4EnKYHAjC2F_kdpscgqMMA-I/edit) for COVID coughs. This starter repository currently contains open-source cough files, sourced from [Coughvid](https://coughvid.epfl.ch/), available [here](https://github.com/virufy/virufy-cdf-coughvid), as well as from [clinical-india-1](https://github.com/virufy/virufy-cdf-clinical-india-1). This data has been standardized using Virufy's Common Data Format. More data will be added to this data source as it becomes available.
+Virufy has defined a [standardized data format](https://docs.google.com/document/d/1Joj2bslHOPmQvs2SvOw4EnKYHAjC2F_kdpscgqMMA-I/edit) for COVID coughs.
 
+### Datasets
+
+This data has been standardized using Virufy's Common Data Format. More data will be added as it becomes available.
+1. [Coughvid](https://coughvid.epfl.ch/) is available [here](https://github.com/virufy/virufy-cdf-coughvid)
+2. Virufy's clinically validated data is available at [clinical-india-1](https://github.com/virufy/virufy-cdf-clinical-india-1)
+
+### Column structure
 | Column | Description|
 |--------|------------|
 | row | Row number of the data. |
