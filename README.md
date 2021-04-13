@@ -19,8 +19,8 @@ Virufy has defined a [standardized data format](https://docs.google.com/document
 ### Datasets
 
 This data has been standardized using Virufy's Common Data Format. More data will be added as it becomes available.
-1. [Coughvid](https://coughvid.epfl.ch/) is available [here](https://github.com/virufy/virufy-cdf-coughvid)
-2. Virufy's clinically validated data is available at [clinical-india-1](https://github.com/virufy/virufy-cdf-clinical-india-1)
+1. https://github.com/virufy/virufy-cdf-coughvid
+2. https://github.com/virufy/virufy-cdf-clinical-india-1
 
 ### Column structure
 | Column | Description|
