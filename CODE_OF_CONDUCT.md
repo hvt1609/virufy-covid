@@ -2,6 +2,8 @@
 
 ## Our Pledge
 
+Virufy is committed to providing a friendly, safe, and welcoming environment for all of our Virufighters and expects everyone to treat each other with respect, courtesy, and kindness.  Virufy is also deeply committed to the mission, and as a volunteer organization, we expect people to follow through on commitments to this organization.
+
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
