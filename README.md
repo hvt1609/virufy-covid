@@ -30,7 +30,8 @@ This data has been standardized using Virufy's Common Data Format. More data wil
 | source | Source of the cough data. |
 | patient_id | Unique identifier for the patient. |
 | cough_detected | The probability that the audio file contains an actual cough submission. |
-| cough_path | The file path to the audio file containing the patient's cough submission. All of the cough audio files are in the [cough folder.](/cough) |
+| audio_path | The file path to the audio file containing the patient's cough submission. All of the cough audio files are in the [cough folder.](/cough) |
+| audio_type | Either cough or speech |
 | age | The age of the patient. |
 | biological_sex | The sex at birth of the patient. This can be `male`, `female`, or `NaN`. |
 | reported_gender | The reported gender of the patient. |
