@@ -9,8 +9,7 @@ This repository contains everything needed to get started on writing a COVID-19 
 The [virufy_cdf_quickstart.ipynb](/virufy_cdf_quickstart.ipynb) notebook contains the setup to download the dataset, filter the dataset to only labled entries, and prepare the data for training and testing. There are instructions included for saving your model as well.
 
 Questions?  
-Join our [Slack support workspace](https://join.slack.com/t/virufycovid/shared_invite/zt-p62lib8g-Uz8YoTujfp5sxC7frpeiPw)  
-Feel free to reach out to ai-community@virufy.org
+Join our [Slack support workspace](https://join.slack.com/t/virufycovid/shared_invite/zt-p62lib8g-Uz8YoTujfp5sxC7frpeiPw)
 
 ## Virufy common data format
 
